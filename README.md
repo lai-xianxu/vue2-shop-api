@@ -18,5 +18,5 @@
 - `app.js` 主项目入口文件
 - `package.json` 项目配置文件
 #### 启动项目
-- npm install (安装依赖包)
-- `node app.js  （启动项目）
+- `npm install` 安装依赖包
+- `node app.js`  启动项目
